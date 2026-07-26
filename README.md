@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ilyasa%20Ramadhany&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20Tech%20%26%20Education%20Builder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06b6d4&height=200&section=header&text=Ilyasa%20Ramadhany&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20Tech%20%26%20Education%20Builder&descAlignY=55&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=550&lines=👋+Hey%2C+I'm+Ilyasa+Ramadhany!;💻+Web+Developer+%26+IoT+Enthusiast;🚀+Building+Tech+for+Real+Impact;🎓+Informatics+Engineering+Student;⚡+Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
@@ -196,7 +196,7 @@ I'm always open to connecting with **fellow developers**, **students**, **tech e
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06b6d4&height=120&section=footer&animation=fadeIn" />
 
 <b>Made with ❤️ and lots of ☕ by Ilyasa Ramadhany</b>
 
