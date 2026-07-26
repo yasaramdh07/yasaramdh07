@@ -1,10 +1,6 @@
 <div align="center">
 
-
 <img src="./assets/header.svg" width="100%" />
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06b6d4&height=200&section=header&text=Ilyasa%20Ramadhany&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20Tech%20%26%20Education%20Builder&descAlignY=55&descSize=18" />
->>>>>>> fe17aa25982449859af9c26ce8727529708d4432
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=550&lines=👋+Hey%2C+I'm+Ilyasa+Ramadhany!;💻+Web+Developer+%26+IoT+Enthusiast;🚀+Building+Tech+for+Real+Impact;🎓+Informatics+Engineering+Student;⚡+Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
@@ -147,21 +143,12 @@ Through these experiences, I've learned that building great products is not only
 
 <div align="center">
 
-<<<<<<< HEAD
 <img src="https://github-readme-stats.vercel.app/api?username=yasaramdh07&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaramdh07&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=yasaramdh07&theme=tokyonight&hide_border=true" width="50%" />
-=======
-<img src="https://github-readme-stats.vercel.app/api?username=yasaramdh07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaramdh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" width="41%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yasaramdh07&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="50%" />
->>>>>>> fe17aa25982449859af9c26ce8727529708d4432
 
 </div>
 
@@ -209,11 +196,7 @@ I'm always open to connecting with **fellow developers**, **students**, **tech e
 
 <div align="center">
 
-<<<<<<< HEAD
 <img src="./assets/footer.svg" width="100%" />
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06b6d4&height=120&section=footer&animation=fadeIn" />
->>>>>>> fe17aa25982449859af9c26ce8727529708d4432
 
 <b>Made with ❤️ and lots of ☕ by Ilyasa Ramadhany</b>
 
