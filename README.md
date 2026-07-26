@@ -1,6 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
+
 <img src="./assets/header.svg" width="100%" />
 =======
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06b6d4&height=200&section=header&text=Ilyasa%20Ramadhany&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20Tech%20%26%20Education%20Builder&descAlignY=55&descSize=18" />
