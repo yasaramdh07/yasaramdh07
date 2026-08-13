@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050510"/>
+      <stop offset="40%" style="stop-color:#09091E"/>
+      <stop offset="100%" style="stop-color:#120008"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="230" fill="url(#bg)"/>
+
+  <!-- Subtle grid dots - blue side -->
+  <circle cx="30"  cy="50"  r="1" fill="#00D4FF" opacity="0.18"/>
+  <circle cx="60"  cy="50"  r="1" fill="#00D4FF" opacity="0.18"/>
+  <circle cx="90"  cy="50"  r="1" fill="#00D4FF" opacity="0.12"/>
+  <circle cx="30"  cy="80"  r="1" fill="#00D4FF" opacity="0.18"/>
+  <circle cx="60"  cy="80"  r="1" fill="#00D4FF" opacity="0.12"/>
+  <circle cx="90"  cy="80"  r="1" fill="#00D4FF" opacity="0.10"/>
+  <circle cx="30"  cy="110" r="1" fill="#00D4FF" opacity="0.12"/>
+  <circle cx="60"  cy="110" r="1" fill="#00D4FF" opacity="0.10"/>
+  <circle cx="30"  cy="140" r="1" fill="#00D4FF" opacity="0.10"/>
+  <circle cx="60"  cy="140" r="1" fill="#00D4FF" opacity="0.08"/>
+  <circle cx="30"  cy="170" r="1" fill="#00D4FF" opacity="0.18"/>
+  <circle cx="60"  cy="170" r="1" fill="#00D4FF" opacity="0.12"/>
+  <circle cx="90"  cy="170" r="1" fill="#00D4FF" opacity="0.10"/>
+  <circle cx="30"  cy="200" r="1" fill="#00D4FF" opacity="0.14"/>
+  <circle cx="60"  cy="200" r="1" fill="#00D4FF" opacity="0.10"/>
+
+  <!-- Subtle grid dots - red side -->
+  <circle cx="870" cy="50"  r="1" fill="#FF003C" opacity="0.18"/>
+  <circle cx="840" cy="50"  r="1" fill="#FF003C" opacity="0.18"/>
+  <circle cx="810" cy="50"  r="1" fill="#FF003C" opacity="0.12"/>
+  <circle cx="870" cy="80"  r="1" fill="#FF003C" opacity="0.18"/>
+  <circle cx="840" cy="80"  r="1" fill="#FF003C" opacity="0.12"/>
+  <circle cx="810" cy="80"  r="1" fill="#FF003C" opacity="0.10"/>
+  <circle cx="870" cy="110" r="1" fill="#FF003C" opacity="0.12"/>
+  <circle cx="840" cy="110" r="1" fill="#FF003C" opacity="0.10"/>
+  <circle cx="870" cy="140" r="1" fill="#FF003C" opacity="0.10"/>
+  <circle cx="840" cy="140" r="1" fill="#FF003C" opacity="0.08"/>
+  <circle cx="870" cy="170" r="1" fill="#FF003C" opacity="0.18"/>
+  <circle cx="840" cy="170" r="1" fill="#FF003C" opacity="0.12"/>
+  <circle cx="810" cy="170" r="1" fill="#FF003C" opacity="0.10"/>
+  <circle cx="870" cy="200" r="1" fill="#FF003C" opacity="0.14"/>
+  <circle cx="840" cy="200" r="1" fill="#FF003C" opacity="0.10"/>
+
+  <!-- Circuit traces - LEFT (blue) -->
+  <polyline points="0,55 130,55 130,90 175,90" fill="none" stroke="#00D4FF" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="175" cy="90" r="3.5" fill="#00D4FF" opacity="0.7"/>
+  <circle cx="130" cy="55"  r="2"   fill="#00D4FF" opacity="0.5"/>
+
+  <polyline points="0,145 90,145 90,185 165,185" fill="none" stroke="#00D4FF" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="165" cy="185" r="3" fill="#00D4FF" opacity="0.6"/>
+  <circle cx="90"  cy="145" r="2"  fill="#00D4FF" opacity="0.4"/>
+
+  <!-- Circuit traces - RIGHT (red) -->
+  <polyline points="900,55 770,55 770,90 725,90" fill="none" stroke="#FF003C" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="725" cy="90" r="3.5" fill="#FF003C" opacity="0.7"/>
+  <circle cx="770" cy="55" r="2"   fill="#FF003C" opacity="0.5"/>
+
+  <polyline points="900,145 810,145 810,185 735,185" fill="none" stroke="#FF003C" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="735" cy="185" r="3" fill="#FF003C" opacity="0.6"/>
+  <circle cx="810" cy="145" r="2"  fill="#FF003C" opacity="0.4"/>
+
+  <!-- Top border line (red) -->
+  <rect x="0" y="0" width="900" height="2" fill="#FF003C" opacity="0.85"/>
+  <!-- Bottom border line (blue) -->
+  <rect x="0" y="228" width="900" height="2" fill="#00D4FF" opacity="0.85"/>
+
+  <!-- Corner text labels -->
+  <text x="14" y="16" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#FF003C" opacity="0.9">&gt;_ INITIALIZING PROFILE...</text>
+  <text x="886" y="16" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#00D4FF" opacity="0.9" text-anchor="end">STATUS: [ ONLINE ] ●</text>
+  <text x="14" y="225" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#00D4FF" opacity="0.8">// CODE . BUILD . IMPACT .</text>
+  <text x="886" y="225" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#FF003C" opacity="0.8" text-anchor="end">v2.0.2026</text>
+
+  <!-- Left square bracket -->
+  <polyline points="215,72 190,72 190,158 215,158" fill="none" stroke="#FF003C" stroke-width="2.5" opacity="0.85"/>
+  <!-- Right square bracket -->
+  <polyline points="685,72 710,72 710,158 685,158" fill="none" stroke="#00D4FF" stroke-width="2.5" opacity="0.85"/>
+
+  <!-- Main Name -->
+  <text x="450" y="116" font-family="'Courier New', Courier, monospace" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">Ilyasa Ramadhany</text>
+
+  <!-- Red divider line under name -->
+  <line x1="230" y1="127" x2="670" y2="127" stroke="#FF003C" stroke-width="1.5" opacity="0.9"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="152" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00D4FF" text-anchor="middle" letter-spacing="3.5">WEB DEV  ·  IoT  ·  CYBER &amp; TECH</text>
+
+  <!-- Small decorative dashes -->
+  <line x1="390" y1="167" x2="510" y2="167" stroke="#FF003C" stroke-width="1" opacity="0.45"/>
+</svg>
