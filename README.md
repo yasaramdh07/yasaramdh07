@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" />
+<img src="header.svg" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF003C&center=true&vCenter=true&random=false&width=600&lines=%3E_+sudo+init+ilyasa_ramadhany;%5B+ACCESS+GRANTED+%5D+Hello+World!;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A4%96+IoT+%26+Embedded+Systems+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%9A%80+Code.+Build.+Impact.)](https://git.io/typing-svg)
 
@@ -241,7 +241,7 @@ const ilyasa = {
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" />
+<img src="footer.svg" width="100%" />
 
 **`>_ Made with ❤️ and lots of ☕ by Ilyasa Ramadhany`**
 
